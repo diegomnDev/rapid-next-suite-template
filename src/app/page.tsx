@@ -3,7 +3,6 @@
 import { Button } from '@/components/ui/button';
 import { Card, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { siteConfig } from '@/config/site';
-import { motion } from 'framer-motion';
 import {
   Code2,
   Container,
@@ -16,6 +15,7 @@ import {
   Search,
   Zap,
 } from 'lucide-react';
+import { motion } from 'motion/react';
 import React from 'react';
 
 export default function Home() {

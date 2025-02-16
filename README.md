@@ -5,7 +5,7 @@
 ![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Clerk](https://img.shields.io/badge/Clerk-6.11.3-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.4.3-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-12.4.3-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-Workspace-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
@@ -19,7 +19,7 @@ A modern, feature-rich Next.js template engineered for rapid application develop
 - **React 19** - The latest React features and improvements
 - **TypeScript** - Full type safety throughout the project
 - **Tailwind CSS** - Utility-first CSS framework with shadcn/ui components
-- **Framer Motion** - Beautiful animations and transitions
+- **Motion** - Beautiful animations and transitions
 
 ### 🔐 Authentication & Security
 
@@ -173,7 +173,7 @@ For detailed documentation on the included packages:
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [shadcn/ui Documentation](https://ui.shadcn.com)
 - [Clerk Documentation](https://clerk.com/docs)
-- [Framer Motion Documentation](https://www.framer.com/motion/)
+- [Motion Documentation](https://motion.dev/docs/)
 
 ## 🤝 Contributing
 
