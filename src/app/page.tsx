@@ -2,6 +2,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Card, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { siteConfig } from '@/config/site';
 import { motion } from 'framer-motion';
 import {
   Code2,
@@ -111,7 +112,7 @@ export default function Home() {
               size="lg"
               variant="outline"
               className="gap-2"
-              onClick={() => window.open('https://github.com/makucg', '_blank')}
+              onClick={() => window.open(siteConfig.links.github, '_blank')}
             >
               <Github className="size-4" />
               GitHub

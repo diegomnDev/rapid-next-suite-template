@@ -59,7 +59,7 @@ A modern, feature-rich Next.js template engineered for rapid application develop
 
 ```bash
 # Clone the repository
-git clone https://github.com/makucg/rapid-next-suite-template
+git clone https://github.com/diegomnDev/rapid-next-suite-template
 
 # Install dependencies
 pnpm install
