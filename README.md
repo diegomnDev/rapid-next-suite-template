@@ -179,6 +179,14 @@ For detailed documentation on the included packages:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 📩 Contact
+
+Feel free to reach out for collaboration or job opportunities:
+
+- **Email:** <diego.montes@outlook.com>
+- **LinkedIn:** [https://www.linkedin.com/in/diego-montes-novio](https://www.linkedin.com/in/diego-montes-novio-50503448/)
+- **GitHub:** [github.com/diegomnDev](https://github.com/diegomnDev)
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
