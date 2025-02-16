@@ -16,6 +16,7 @@ import {
   Zap,
 } from 'lucide-react';
 import { motion } from 'motion/react';
+import Link from 'next/link';
 import React from 'react';
 
 export default function Home() {
@@ -104,10 +105,12 @@ export default function Home() {
             className="flex justify-center gap-4"
             variants={itemVariants}
           >
-            <Button size="lg" className="gap-2">
-              <Rocket className="size-4" />
-              Get Started
-            </Button>
+            <Link href="/overview">
+              <Button size="lg" className="gap-2">
+                <Rocket className="size-4" />
+                Get Started
+              </Button>
+            </Link>
             <Button
               size="lg"
               variant="outline"
