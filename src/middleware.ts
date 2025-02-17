@@ -18,8 +18,10 @@ export default clerkMiddleware(async (auth, req: NextRequest) => {
     return redirectToSignIn();
   }
 
-  if (userId) {
-    return NextResponse.rewrite(new URL('/overview', req.url));
+  if (userId && req.nextUrl.pathname === '/') {
+    const url = req.nextUrl.clone();
+    url.pathname = '/overview';
+    return NextResponse.redirect(url);
   }
 
   return NextResponse.next();
